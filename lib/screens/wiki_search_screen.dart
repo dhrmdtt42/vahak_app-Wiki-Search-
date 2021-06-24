@@ -161,8 +161,6 @@ class _WikiSearchScreenState extends State<WikiSearchScreen> {
         print(wikiDataList.toString());
       } else {
         getResponseData();
-//
-//        responseData = getResponseData();
       }
     });
   }
